@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.5",
-  "minRequiredVersion": "1.0.4",
+  "latestVersion": "1.0.3",
+  "minRequiredVersion": "1.0.0",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
   "isUnderMaintenance": false,
   "maintenanceMessage": "We're currently updating our servers. Please try again in 1 hour.",
