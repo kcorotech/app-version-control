@@ -1,5 +1,8 @@
 {
-  "latestVersion": "1.0.8",
-  "forceUpdate": true,
-  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa"
+  "latestVersion": "1.0.5",
+  "minRequiredVersion": "1.0.2",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
+  "releaseNotes": "• Fixed GPA calculation logic\n• Improved dark mode stability\n• Faster app startup",
+  "isUnderMaintenance": false,
+  "maintenanceMessage": "We're currently updating our servers. Please try again in 1 hour."
 }
