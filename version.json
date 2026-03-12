@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.6",
   "minRequiredVersion": "1.0.0",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
   "isUnderMaintenance": false,
@@ -7,7 +7,7 @@
   "forceUpdate": false,
 
   "production": {
-    "latestVersion": "1.0.4",
+    "latestVersion": "1.0.6",
     "minRequiredVersion": "1.0.0",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
     "isUnderMaintenance": false,
@@ -15,9 +15,9 @@
     "forceUpdate": false,
     "featureAlert": {
       "showAlert": false,
-      "title": "",
-      "message": "",
-      "alertId": ""
+      "title": "✨ New Grading Policy",
+      "message": "Attention 25 Batch: The updated grading system is now available. Go to the Hub screen to switch your policy and start calculating!",
+      "alertId": "prod_feat_policy_25_batch"
     }
   },
   "development": {
