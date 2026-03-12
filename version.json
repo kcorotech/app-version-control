@@ -31,7 +31,7 @@
       "showAlert": true,
       "title": "🎉 New Features Added!",
       "message": "We've added the New Grading Policy and a smart Chatbot to help you calculate faster. Check it out!",
-      "alertId": "dev_test_feat_1"
+      "alertId": "dev_test_feat_2"
     }
   }
 }
