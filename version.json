@@ -3,6 +3,35 @@
   "minRequiredVersion": "1.0.0",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
   "isUnderMaintenance": false,
-  "maintenanceMessage": "We're currently updating our servers. Please try again in 1 hour.",
-  "forceUpdate": false
+  "maintenanceMessage": "We're currently updating our servers.",
+  "forceUpdate": false,
+
+  "production": {
+    "latestVersion": "1.0.4",
+    "minRequiredVersion": "1.0.0",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
+    "isUnderMaintenance": false,
+    "maintenanceMessage": "We're currently updating our servers.",
+    "forceUpdate": false,
+    "featureAlert": {
+      "showAlert": false,
+      "title": "",
+      "message": "",
+      "alertId": ""
+    }
+  },
+  "development": {
+    "latestVersion": "1.0.4",
+    "minRequiredVersion": "1.0.0",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
+    "isUnderMaintenance": false,
+    "maintenanceMessage": "Dev maintenance test.",
+    "forceUpdate": false,
+    "featureAlert": {
+      "showAlert": true,
+      "title": "🎉 New Features Added!",
+      "message": "We've added the New Grading Policy and a smart Chatbot to help you calculate faster. Check it out!",
+      "alertId": "dev_test_feat_1"
+    }
+  }
 }
