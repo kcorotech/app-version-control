@@ -30,7 +30,7 @@
     "featureAlert": {
       "showAlert": true,
       "title": "🎉 New Features Added!",
-      "message": "We've added the New Grading Policy and a smart Chatbot to help you calculate faster. Check it out!",
+      "message": "We've added the New Grading Policy for 25 Batch. Check it out in the hub screen!",
       "alertId": "dev_test_feat_2"
     }
   }
