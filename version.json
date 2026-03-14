@@ -14,7 +14,7 @@
     "maintenanceMessage": "We're currently updating our servers.",
     "forceUpdate": false,
     "featureAlert": {
-      "showAlert": false,
+      "showAlert": true,
       "title": "✨ New Grading Policy",
       "message": "Attention 25 Batch: The updated grading system is now available. Go to the Hub screen to switch your policy and start calculating!",
       "alertId": "prod_feat_policy_25_batch"
