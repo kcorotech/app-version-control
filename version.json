@@ -54,7 +54,7 @@
     "featureAlert": {
       "showAlert": true,
       "alertId": "dev_test_feat_bot_purecode_v5",
-      "type": "text",
+      "type": "html",
       "title": "Chatbot Available",
       "message": "If this app saved your GPA, consider supporting the developer!",
       "imageUrl": "hehhehhehee",
