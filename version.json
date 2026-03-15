@@ -53,7 +53,7 @@
     },
     "featureAlert": {
       "showAlert": true,
-      "alertId": "dev_test_feat_bot_purecode_v5",
+      "alertId": "dev_test_feat_bot_purecode_v6",
       "type": "html",
       "title": "Chatbot Available",
       "message": "If this app saved your GPA, consider supporting the developer!",
