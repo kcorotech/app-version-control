@@ -13,13 +13,23 @@
     "isUnderMaintenance": false,
     "maintenanceMessage": "We're currently updating our servers.",
     "forceUpdate": false,
+    "buyMeACoffee": {
+      "show": false,
+      "title": "☕ Buy me a Coffee",
+      "message": "If this app saved your GPA, consider supporting the developer!",
+      "accountDetails": "Easypaisa / JazzCash: 03XX-XXXXXXX\nTitle: Zain"
+    },
     "featureAlert": {
       "showAlert": true,
+      "alertId": "prod_feat_policy_25_batch",
+      "type": "text",
       "title": "✨ New Grading Policy",
       "message": "Attention 25 Batch: The updated grading system is now available. Go to the Hub screen to switch your policy and start calculating!",
-      "alertId": "prod_feat_policy_25_batch"
+      "imageUrl": "",
+      "htmlContent": ""
     }
   },
+  
   "development": {
     "latestVersion": "1.0.4",
     "minRequiredVersion": "1.0.0",
@@ -27,11 +37,20 @@
     "isUnderMaintenance": false,
     "maintenanceMessage": "Dev maintenance test.",
     "forceUpdate": false,
+    "buyMeACoffee": {
+      "show": true,
+      "title": "☕ Buy me a Coffee (DEV)",
+      "message": "If this app saved your GPA, consider supporting the developer!",
+      "accountDetails": "Easypaisa / JazzCash: 03XX-XXXXXXX\nTitle: Zain"
+    },
     "featureAlert": {
       "showAlert": true,
+      "alertId": "dev_test_feat_html_1",
+      "type": "html",
       "title": "🎉 New Features Added!",
       "message": "We've added the New Grading Policy for 25 Batch. Check it out in the hub screen!",
-      "alertId": "dev_test_feat_2"
+      "imageUrl": "https://www.uog.edu.pk/assets/images/logo.png",
+      "htmlContent": "<html><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><style>body{font-family:sans-serif; text-align:center; padding:20px; background:#1e1e1e; color:#fff;} .btn{background:#007AFF; color:white; padding:10px 20px; border:none; border-radius:8px; font-weight:bold; margin-top:20px; width:100%;}</style></head><body><h2>📅 Exam Schedule Out!</h2><p>The mid-term schedule has been officially announced by UOG.</p><button class=\"btn\" onclick=\"window.ReactNativeWebView.postMessage('close_modal')\">✕ Close Alert</button></body></html>"
     }
   }
 }
