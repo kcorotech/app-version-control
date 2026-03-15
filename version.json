@@ -53,7 +53,7 @@
     },
     "featureAlert": {
       "showAlert": true,
-      "alertId": "dev_test_feat_html_1",
+      "alertId": "dev_test_feat_html_2",
       "type": "html",
       "title": "🎉 New Features Added!",
       "message": "We've added the New Grading Policy for 25 Batch. Check it out in the hub screen!",
