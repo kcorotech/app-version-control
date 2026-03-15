@@ -17,7 +17,11 @@
       "show": false,
       "title": "☕ Buy me a Coffee",
       "message": "If this app saved your GPA, consider supporting the developer!",
-      "accountDetails": "Easypaisa / JazzCash: 03XX-XXXXXXX\nTitle: Zain"
+      "accountDetails": {
+        "provider": "Easypaisa / JazzCash",
+        "id": "03XX-XXXXXXX",
+        "title": "zain"
+      }
     },
     "featureAlert": {
       "showAlert": true,
@@ -29,7 +33,7 @@
       "htmlContent": ""
     }
   },
-  
+
   "development": {
     "latestVersion": "1.0.4",
     "minRequiredVersion": "1.0.0",
@@ -41,7 +45,11 @@
       "show": true,
       "title": "☕ Buy me a Coffee (DEV)",
       "message": "If this app saved your GPA, consider supporting the developer!",
-      "accountDetails": "Easypaisa / JazzCash: 03XX-XXXXXXX\nTitle: Zain"
+      "accountDetails": {
+        "provider": "Easypaisa / JazzCash",
+        "id": "03XX-XXXXXXX",
+        "title": "zain"
+      }
     },
     "featureAlert": {
       "showAlert": true,
