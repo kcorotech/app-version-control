@@ -43,13 +43,13 @@
     "maintenanceMessage": "Dev maintenance test.",
     "forceUpdate": false,
     "buyMeACoffee": {
-      "show": false,
+      "show": true,
       "title": "☕ Buy me a Coffee (DEV)",
-      "message": "If this app saved your GPA, consider supporting the developer!",
+      "message": "From GPA calculations to finding rooms and notes, I'm working to make UOG life easier. If the app helped you, consider supporting the dev!",
       "accountDetails": {
-        "provider": "Easypaisa / JazzCash",
-        "id": "03XX-XXXXXXX",
-        "title": "zain"
+        "provider": "Easypaisa / JazzCash / Nayapay",
+        "id": "03266279875",
+        "title": "Haider"
       }
     },
     "featureAlert": {
