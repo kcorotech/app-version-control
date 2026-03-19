@@ -43,7 +43,7 @@
     "maintenanceMessage": "Dev maintenance test.",
     "forceUpdate": false,
     "buyMeACoffee": {
-      "show": true,
+      "show": false,
       "title": "☕ Buy me a Coffee (DEV)",
       "message": "If this app saved your GPA, consider supporting the developer!",
       "accountDetails": {
