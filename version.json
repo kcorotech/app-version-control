@@ -44,8 +44,8 @@
     "forceUpdate": false,
     "buyMeACoffee": {
       "show": true,
-      "title": "☕ Buy me a Coffee (DEV)",
-      "message": "From GPA calculations to finding rooms and notes, I'm working to make UOG life easier. If the app helped you, consider supporting the dev!",
+      "title": "☕ Buy me a Coffee",
+      "message": "Calculated your GPA, found your room, or grabbed notes? If MyUOG made your uni life easier, consider buying the dev a Chai!",
       "accountDetails": {
         "provider": "Easypaisa / JazzCash / Nayapay",
         "id": "03266279875",
