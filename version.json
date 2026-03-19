@@ -44,7 +44,7 @@
     "forceUpdate": false,
     "buyMeACoffee": {
       "show": true,
-      "title": "☕ Buy me a Coffee",
+      "title": "☕ Buy me a Chai",
       "message": "Calculated your GPA, found your room, or grabbed notes? If MyUOG made your uni life easier, consider buying the dev a Chai!",
       "accountDetails": {
         "provider": "Easypaisa / JazzCash / Nayapay",
