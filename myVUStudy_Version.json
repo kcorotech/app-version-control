@@ -5,7 +5,8 @@
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
     "isUnderMaintenance": false,
     "maintenanceMessage": "We're currently updating our servers.",
-    "forceUpdate": false
+    "forceUpdate": false,
+    "totalSupport": 0
   },
 
   "development": {
@@ -14,6 +15,7 @@
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
     "isUnderMaintenance": false,
     "maintenanceMessage": "Dev maintenance test.",
-    "forceUpdate": false
+    "forceUpdate": false,
+    "totalSupport": 105
   }
 }
