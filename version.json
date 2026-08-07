@@ -13,6 +13,7 @@
     "isUnderMaintenance": false,
     "maintenanceMessage": "We're currently updating our servers.",
     "forceUpdate": false,
+    "supportAmount": 0,
     "buyMeACoffee": {
       "show": true,
       "title": "☕ Buy me a Chai",
@@ -23,17 +24,16 @@
         "title": "Haider"
       }
     },
-  
-  "featureAlert": {
-    "showAlert": false,
-    "alertId": "fall_2026_admissions_v1",
-    "type": "html",
-    "title": "🍂 Fall 2026 Admissions Open",
-    "message": "Applications for Fall 2026 are now open.",
-    "imageUrl": "",
-    "htmlContent": ""
-  }
-    
+
+    "featureAlert": {
+      "showAlert": false,
+      "alertId": "fall_2026_admissions_v1",
+      "type": "html",
+      "title": "🍂 Fall 2026 Admissions Open",
+      "message": "Applications for Fall 2026 are now open.",
+      "imageUrl": "",
+      "htmlContent": ""
+    }
   },
 
   "development": {
@@ -60,7 +60,8 @@
       "title": "Chatbot Available",
       "message": "If this app saved your GPA, consider supporting the developer!",
       "imageUrl": "hehhehhehee",
-      "htmlContent": ""
+      "htmlContent": "",
+      "supportAmount": 20
     }
   }
 }
