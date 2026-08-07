@@ -44,16 +44,6 @@
     "maintenanceMessage": "Dev maintenance test.",
     "forceUpdate": false,
     "supportAmount": 20,
-    "buyMeACoffee": {
-      "show": false,
-      "title": "☕ Buy me a Chai",
-      "message": "Calculated your GPA, found your room, or grabbed notes? If MyUOG made your uni life easier, consider buying the dev a Chai!",
-      "accountDetails": {
-        "provider": "Easypaisa / JazzCash / Nayapay",
-        "id": "03266279875",
-        "title": "Haider"
-      }
-    },
     "featureAlert": {
       "showAlert": false,
       "alertId": "dev_test_feat_bot_purecode_v6",
