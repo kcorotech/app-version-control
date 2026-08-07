@@ -43,6 +43,7 @@
     "isUnderMaintenance": false,
     "maintenanceMessage": "Dev maintenance test.",
     "forceUpdate": false,
+    "supportAmount": 20,
     "buyMeACoffee": {
       "show": false,
       "title": "☕ Buy me a Chai",
@@ -60,8 +61,7 @@
       "title": "Chatbot Available",
       "message": "If this app saved your GPA, consider supporting the developer!",
       "imageUrl": "hehhehhehee",
-      "htmlContent": "",
-      "supportAmount": 20
+      "htmlContent": ""
     }
   }
 }
