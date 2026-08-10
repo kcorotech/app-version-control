@@ -26,7 +26,6 @@
     },
 
     "featureAlert": {
-      {
 "showAlert": true,
 "alertId": "fall_2026_first_merit_list_v1",
 "type": "html",
