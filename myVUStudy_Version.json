@@ -1,6 +1,6 @@
 {
   "production": {
-    "latestVersion": "1.0.7",
+    "latestVersion": "1.0.9",
     "minRequiredVersion": "1.0.7",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
     "isUnderMaintenance": false,
