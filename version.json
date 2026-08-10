@@ -26,13 +26,16 @@
     },
 
     "featureAlert": {
-      "showAlert": false,
-      "alertId": "fall_2026_admissions_v1",
-      "type": "html",
-      "title": "🍂 Fall 2026 Admissions Open",
-      "message": "Applications for Fall 2026 are now open.",
-      "imageUrl": "",
-      "htmlContent": ""
+      {
+"showAlert": true,
+"alertId": "fall_2026_first_merit_list_v1",
+"type": "html",
+"title": "📋 Fall 2026 First Merit List",
+"message": "The First Merit List for Fall 2026 is now available.",
+"imageUrl": "",
+"htmlContent": "<!DOCTYPE html><html><head><meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'><style>body{margin:0;padding:0;background:#F4F7FB;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;color:#1F2937}.box{position:relative;padding:24px}.close{position:absolute;top:14px;right:14px;width:34px;height:34px;border:none;border-radius:50%;background:#EEF2F7;color:#4B5563;font-size:20px;font-weight:700;cursor:pointer}.center{text-align:center}.badge{display:inline-block;background:#16A34A;color:#fff;padding:6px 14px;border-radius:999px;font-size:12px;font-weight:800;margin-bottom:16px}.title{font-size:25px;font-weight:800;color:#111827;margin-bottom:12px}.msg{font-size:15px;line-height:24px;color:#4B5563;margin-bottom:20px}.info{background:#ECFDF5;border-left:4px solid #16A34A;color:#166534;padding:14px;border-radius:10px;font-size:14px;line-height:22px;margin-bottom:20px}.info strong{display:block;margin-bottom:8px}.btn{display:block;width:100%;box-sizing:border-box;text-decoration:none;text-align:center;background:#16A34A;color:#fff;padding:15px;border-radius:14px;font-size:16px;font-weight:700;margin-bottom:12px}.btnReview{background:#F59E0B}</style></head><body><div class='box'><button class='close' onclick="window.ReactNativeWebView.postMessage('close_modal')">✕</button><div class='center'><div class='badge'>FIRST MERIT LIST</div><div class='title'>Merit List Announced</div><div class='msg'>The First Merit List for Fall 2026 admissions at the University of Gujrat is now available.</div></div><div class='info'><strong>📋 First Merit List</strong>The first merit list has been announced. Check the official UOG website to view your merit status and program details.</div><a class='btn' href='https://uog.edu.pk/view-merit-lists/ndd57cea53bbba4e/hafiz-hayat-campus-(undergraduate-programs)' target='_blank' rel='noopener noreferrer'>📋 View First Merit List</a><a class='btn btnReview' href='https://play.google.com/store/apps/details?id=com.myuoggpa' target='_blank' rel='noopener noreferrer'>⭐ Rate MyUOG GPA</a></div></body></html>"
+}
+
     }
   },
 
