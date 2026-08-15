@@ -2,9 +2,9 @@
   "prod": [],
   "dev": [
     {
-      "id": "Admissions",
+      "id": "Testing",
       "type": "backend",
-      "title": "UOG Admissions are open",
+      "title": "Testing",
       "description": "Stay updated with the latest UOG news, announcements, and updates.",
       "buttonText": "Register here",
       "link": "https://uog.edu.pk/ProgramTransfers/c-tbv57cea53bc7eda/ndd57cea53bbba4e"
