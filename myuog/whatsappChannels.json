@@ -1,0 +1,26 @@
+{
+  "prod": [],
+  "dev": [
+    {
+      "id": "1",
+      "name": "UOG Official Updates",
+      "description": "Stay updated with important University of Gujrat announcements and updates.",
+      "url": "https://whatsapp.com/channel/your-channel",
+      "category": "Official"
+    },
+    {
+      "id": "2",
+      "name": "UOG Students",
+      "description": "A student-focused channel for useful updates, notices, and university-related information.",
+      "url": "https://whatsapp.com/channel/your-channel",
+      "category": "Students"
+    },
+    {
+      "id": "3",
+      "name": "UOG Admissions",
+      "description": "Get admission updates, deadlines, merit lists, and other important information.",
+      "url": "https://whatsapp.com/channel/your-channel",
+      "category": "Admissions"
+    }
+  ]
+}
