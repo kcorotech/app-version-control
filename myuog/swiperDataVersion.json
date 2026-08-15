@@ -4,7 +4,7 @@
     "version": 1.0
   },
   "dev": {
-    "swiper": false,
+    "swiper": true,
     "version": 1.0
   }
 }
