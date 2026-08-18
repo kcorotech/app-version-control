@@ -1,26 +1,26 @@
 {
-  "prod": [],
-  "dev": [
+  "prod": [
     {
       "id": "1",
-      "name": "UOG Official Updates",
-      "description": "Stay updated with important University of Gujrat announcements and updates.",
-      "url": "https://whatsapp.com/channel/your-channel",
-      "category": "Official"
+      "name": "Jamia Gujrat(UOG)",
+      "description": "About: Share the Offical Notifications!",
+      "url": "https://whatsapp.com/channel/0029VbBLWhG0Vyc9XkMtX52N",
+      "category": "Students"
     },
     {
       "id": "2",
-      "name": "UOG Students",
-      "description": "A student-focused channel for useful updates, notices, and university-related information.",
-      "url": "https://whatsapp.com/channel/your-channel",
+      "name": "Univeristy of Gujrat",
+      "description": "About: for the development of knowledge economy",
+      "url": "https://whatsapp.com/channel/0029Vb5c5Xp8KMqsM5eibd0G",
       "category": "Students"
     },
     {
       "id": "3",
-      "name": "UOG Admissions",
-      "description": "Get admission updates, deadlines, merit lists, and other important information.",
-      "url": "https://whatsapp.com/channel/your-channel",
-      "category": "Admissions"
+      "name": "SMDC Updates (Official)",
+      "description": "About: Offical update channel for MyUOG App & UOG Smart Assit",
+      "url": "https://whatsapp.com/channel/0029Vb7omXKISTkODvnyVM0w",
+      "category": "Official"
     }
-  ]
+  ],
+  "dev": []
 }
