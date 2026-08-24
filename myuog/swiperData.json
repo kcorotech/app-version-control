@@ -1,20 +1,12 @@
 {
   "prod": [
-    {
-      "id": "admission",
+     {
+      "id": "app",
       "type": "backend",
-      "title": "Admission Open",
-      "description": "Admission Open for 50+ degree Programs",
-      "buttonText": "See here",
-      "link": "https://uog.edu.pk/ProgramTransfers/c-tbv57cea53bc7eda/ndd57cea53bbba4e"
-    },
-    {
-      "id": "merit",
-      "type": "backend",
-      "title": "Merit List",
-      "description": "Check the latest merit list",
-      "buttonText": "View Merit List",
-      "link": "https://uog.edu.pk/view-merit-lists/ndd57bbba4e/hafiz-hayat-campus-(undergraduate-programs)"
+      "title": "UOG APP",
+      "description": "Offical app available now",
+      "buttonText": "Download now",
+      "link": "https://play.google.com/store/apps/details?id=pk.edu.uog.app&pcampaignid=web_share"
     }
   ],
   "dev": [
