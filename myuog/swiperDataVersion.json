@@ -1,7 +1,7 @@
 {
   "prod": {
     "swiper": true,
-    "version": 1.1
+    "version": 1.2
   },
   "dev": {
     "swiper": true,
