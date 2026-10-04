@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.0.20",
-  "minRequiredVersion": "1.0.18",
+  "latestVersion": "1.0.21",
+  "minRequiredVersion": "1.0.20",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
   "isUnderMaintenance": false,
   "maintenanceMessage": "We're currently updating our servers.",
   "forceUpdate": false,
 
   "production": {
-    "latestVersion": "1.0.20",
-    "minRequiredVersion": "1.0.18",
+    "latestVersion": "1.0.21",
+    "minRequiredVersion": "1.0.20",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.myuoggpa",
     "isUnderMaintenance": false,
     "maintenanceMessage": "We're currently updating our servers.",
